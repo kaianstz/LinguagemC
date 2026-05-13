@@ -17,8 +17,6 @@
             printf("Nome do Aluno: %s - Matricula: %d \n", nome, matricula);
             printf("Sua Idade: %d - Altura: %f", idade, altura);
 
-2
             return 0;
-
 
         }
